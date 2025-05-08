@@ -1,4 +1,4 @@
 # Practice
-An all the Program I practiced here.
+# An all the Program I practiced here.
 <br>
-Author - Shriram Kaushik 
+# Author - Shriram Kaushik 
